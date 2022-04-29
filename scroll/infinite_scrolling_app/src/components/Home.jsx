@@ -39,7 +39,7 @@ useEffect(() => {
         {mockData.map((el) => {
           return (
             <div key={el.id} id="data">
-              <p>{el.id}</p>
+              <p>{el.id}.</p>
               <p>{el.quote}</p>
             </div>
           );
