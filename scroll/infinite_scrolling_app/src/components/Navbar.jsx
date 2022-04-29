@@ -5,7 +5,7 @@ export const Navbar =()=>{
     return (
       <div id="navbar">
         <Link id="link" to="/">
-          InfininiteScrolloing
+          InfininiteScrolling
         </Link>
         <Link id="link" to="limit-perpage">
           Perpage-limit
